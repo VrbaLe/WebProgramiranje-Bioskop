@@ -1,0 +1,51 @@
+.formica{
+    width:350px;
+    border: 1px solid black;
+    padding: 10px;
+    display:grid;
+    grid-template-columns: 2fr 3fr;
+}
+
+.margin-10{
+    margin: 10px;
+}
+
+.btnKupi{
+    grid-area: 5/1/5/3;
+}
+
+.karteDiv {
+    flex: 1; /* zauzima sav preostali prostor */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); /* automatski kolone */
+    gap: 3px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.kartaDiv{
+    /* width : 100px; */
+    height : 50px;
+    display : flex;
+    align-items : center;
+    justify-content : center; 
+    border : 1px solid black;
+    cursor : pointer;
+
+}
+          
+.glavniDiv{ 
+    /* width: 100%; */
+    display: flex;
+    gap: 0px; /* razmak između leve i desne strane */
+    align-items: flex-start;
+    border: 1px solid black;
+}
+
+.projekcijaSelect{
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+}

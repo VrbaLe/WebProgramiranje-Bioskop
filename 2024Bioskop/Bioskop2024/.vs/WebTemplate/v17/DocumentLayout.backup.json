@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|c:\\users\\vrba\\desktop\\bioskop2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|c:\\users\\vrba\\desktop\\bioskop2024\\controllers\\ispitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|solutionrelative:controllers\\ispitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|c:\\users\\vrba\\desktop\\bioskop2024\\models\\ispitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|solutionrelative:models\\ispitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|c:\\users\\vrba\\desktop\\bioskop2024\\models\\projekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|solutionrelative:models\\projekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|c:\\users\\vrba\\desktop\\bioskop2024\\models\\karta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|solutionrelative:models\\karta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|c:\\users\\vrba\\desktop\\bioskop2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF3A5B75-AB3F-47AB-91A2-018355ADD8A9}|WebTemplate.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projekcija.cs",
+              "DocumentMoniker": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Models\\Projekcija.cs",
+              "RelativeDocumentMoniker": "Models\\Projekcija.cs",
+              "ToolTip": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Models\\Projekcija.cs",
+              "RelativeToolTip": "Models\\Projekcija.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:00:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Karta.cs",
+              "DocumentMoniker": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Models\\Karta.cs",
+              "RelativeDocumentMoniker": "Models\\Karta.cs",
+              "ToolTip": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Models\\Karta.cs",
+              "RelativeToolTip": "Models\\Karta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:59:59.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IspitContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Models\\IspitContext.cs",
+              "RelativeDocumentMoniker": "Models\\IspitContext.cs",
+              "ToolTip": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Models\\IspitContext.cs",
+              "RelativeToolTip": "Models\\IspitContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:59:26.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IspitController.cs",
+              "DocumentMoniker": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Controllers\\IspitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IspitController.cs",
+              "ToolTip": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\Controllers\\IspitController.cs",
+              "RelativeToolTip": "Controllers\\IspitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:56:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T17:56:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vrba\\Desktop\\Bioskop2024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T17:56:06.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
